@@ -1,4 +1,6 @@
 # Laravel scaffolder material theme
+
+[![Join the chat at https://gitter.im/mpaleo/scaffolder-theme-material](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mpaleo/scaffolder-theme-material?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 [![Waffle board](https://img.shields.io/badge/waffle.io-Go-blue.svg?style=flat-square)](https://waffle.io/mpaleo/scaffolder-theme-material)
 
